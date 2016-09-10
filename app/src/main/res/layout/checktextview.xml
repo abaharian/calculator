@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <CheckedTextView
+        android:id="@+id/checkedTextView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+        android:paddingBottom="0dp"
+        android:text="CheckedTextView1"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    <CheckedTextView
+        android:id="@+id/checkedTextView2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+        android:paddingBottom="0dp"
+        android:text="CheckedTextView2"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    <CheckedTextView
+        android:id="@+id/checkedTextView3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+        android:paddingBottom="0dp"
+        android:text="CheckedTextView3"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    <CheckedTextView
+        android:id="@+id/checkedTextView4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+        android:paddingBottom="0dp"
+        android:text="CheckedTextView4"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    <CheckedTextView
+        android:id="@+id/checkedTextView5"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+        android:paddingBottom="0dp"
+        android:text="CheckedTextView5"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    <CheckedTextView
+        android:id="@+id/checkedTextView6"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+        android:paddingBottom="0dp"
+        android:text="CheckedTextView6"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    <CheckedTextView
+        android:id="@+id/checkedTextView7"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+        android:paddingBottom="0dp"
+        android:text="CheckedTextView7"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    <CheckedTextView
+        android:id="@+id/checkedTextView8"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+        android:paddingBottom="0dp"
+        android:text="CheckedTextView8"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    <CheckedTextView
+        android:id="@+id/checkedTextView9"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+        android:paddingBottom="0dp"
+        android:text="CheckedTextView9"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    <Button
+        android:id="@+id/btnnew"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>
