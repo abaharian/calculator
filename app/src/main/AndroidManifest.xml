@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hadi.calculator">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".TestActivity"/>
+        <activity android:name=".Main3"/>
+        <activity android:name=".Main4"/>
+        <activity android:name=".Main5"/>
+        <activity android:name=".Main6"/>
+        <activity android:name=".Main7"/>
+        <activity android:name=".ListView1"/>
+        <activity android:name=".Checkbox1"/>
+        <activity android:name=".Togglebutton1"/>
+        <activity android:name=".SearchView1"/>
+        <activity android:name=".Radiobutton1"/>
+        <activity android:name=".Radiogroup1"/>
+        <activity android:name=".Checktextview1"/>
+        <activity android:name=".Spinner1"/>
+        <activity android:name=".Ratingbar1"/>
+        <activity android:name=".Progressbar1"/>
+        <activity android:name=".Quickcontact"/>
+    </application>
+
+</manifest>
